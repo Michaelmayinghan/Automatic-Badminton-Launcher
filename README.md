@@ -17,4 +17,4 @@ This project involves the complete mechanical design, mathematical modeling, and
 
 ## 👥 Engineering Team
 This project was collaboratively developed at the Department of Computer Science, UCL:
-* **[你的名字 - Yinghan Ma]** * **Jierui Zhang** * **Adrian Lou**
+* **Yinghan Ma** * **Jierui Zhang** * **Adrian Lou**
